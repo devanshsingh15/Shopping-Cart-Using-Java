@@ -45,3 +45,8 @@ Total Cart Price: 497300.0
 
 ## 🙌 Acknowledgments
 This project was built as part of a learning exercise to understand how HashMaps work under the hood and apply them in a practical use-case like a shopping cart.
+
+Feel free to reach out!
+
+📌 Author: Devansh
+📅 mail: devanshdmp15@gmail.com
